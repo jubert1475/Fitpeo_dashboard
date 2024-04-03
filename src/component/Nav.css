@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    flex-flow: row;
+    object-fit: contain;
+
+    justify-content: space-between;
+    align-items: center;
+  
+    text-align: start   ;
+    margin: 20px;
+    padding:0 20px;
+}
+

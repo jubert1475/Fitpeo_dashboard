@@ -1,0 +1,23 @@
+.overviewblock{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.overview__detail{
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: start;
+    
+}
+.overviewblock_img{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
